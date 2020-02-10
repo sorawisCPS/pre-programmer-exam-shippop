@@ -1,5 +1,8 @@
 # pre-programmer-exam
 
+## เนื่องจากไม่ทราบว่าโจทย์ในส่วน Bubble Search นั้นเป็นยังไง เพราะหาข้อมูลไม่เจอจริงๆ 
+## เลยขออนุญาตเปลี่ยนมาเป็น Jump Search แทนครับ
+
 ## Project setup
 ```
 npm install
@@ -13,16 +16,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
